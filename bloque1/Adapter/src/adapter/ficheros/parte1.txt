@@ -1,0 +1,3 @@
+[F1-L1] Esta es la primera línea del Fichero 1.
+[F1-L2] Esta es la segunda línea del Fichero 1.
+[F1-L3] Esta es la tercera línea del Fichero 1.

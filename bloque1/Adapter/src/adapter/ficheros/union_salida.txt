@@ -1,0 +1,12 @@
+[F1-L1] Esta es la primera línea del Fichero 1.
+[F1-L2] Esta es la segunda línea del Fichero 1.
+[F1-L3] Esta es la tercera línea del Fichero 1.
+[F1-L4] Esta es la cuarta línea del Fichero 1.
+[F1-L5] Esta es la quinta línea del Fichero 1.
+[F1-L6] Esta es la sexta línea del Fichero 1. 
+[F2-L1] Esta es la primera línea del Fichero 2.
+[F2-L2] Esta es la segunda línea del Fichero 2.
+[F2-L3] Esta es la tercera línea del Fichero 2.
+[F2-L4] Esta es la cuarta línea del Fichero 2.
+[F2-L5] Esta es la quinta línea del Fichero 2.
+[F2-L6] Esta es la sexta línea del Fichero 2. 
