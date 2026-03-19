@@ -1,3 +1,4 @@
+package adapter;
 import java.io.*;
 
 public class MaquetadorBasico {
